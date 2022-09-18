@@ -1,16 +1,47 @@
-### Hi there 👋
+## It's a rainbow! It's a firework! Wait no it's just Yohann...
 
-<!--
-**yohann69/yohann69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Wait but who's this Yohann guy?
 
-Here are some ideas to get you started:
+- 💻 A passionate developper (probably)
+- 📘 A french student (at the IUT of Valence)
+- 🍣 A sushi lover
+- 🧗‍♂️ A rock climber (not a pro)
+- 🤵🏻 A funny guy. (at least, that's what they say)
+- 👨‍👩‍👧‍👧 A Teamwork lover
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+#### What kind of experience does he have?
+
+- 🌱 Around 2 years of JS, NodeJS, HTML & CSS (self taught).
+- ✨ Some experience with Java & C
+- 🐍 A tiny bit of python
+- 🦊 Learning PHP at school as well
+- ⚡ Experienced with Linux and Windows 10/11
+- 💾 Some Database knowledge (NoSQL: MongoDB | SQL: MySQL, MariaDB, PostgreSQL)
+
+<br>
+
+#### What's on his TODO list?
+
+- 💻 Learn more programming languages and master the ones I like such as JS & NodeJS [🚧]
+- 📚 Learn more about databases [🚧]
+- 📝 Learn more about web security
+- 📱 Learn more about mobile development
+
+<br>
+
+#### What's he looking for?
+
+- 💬 An internship in web development
+- 😴 Some time to sleep
+
+
+<br>
+
+#### If you want to get in touch
+
+- Email: yohann@chavanel.eu.org
+- Discord: NΞОИ#1723
+- Telegram: @yohann69
+
