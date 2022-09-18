@@ -9,7 +9,6 @@
 - 🤵🏻 A funny guy. (at least, that's what they say)
 - 👨‍👩‍👧‍👧 A Teamwork lover
 
-<br>
 
 #### What kind of experience does he have?
 
@@ -20,7 +19,6 @@
 - ⚡ Experienced with Linux and Windows 10/11
 - 💾 Some Database knowledge (NoSQL: MongoDB | SQL: MySQL, MariaDB, PostgreSQL)
 
-<br>
 
 #### What's on his TODO list?
 
@@ -29,15 +27,12 @@
 - 📝 Learn more about web security
 - 📱 Learn more about mobile development
 
-<br>
 
 #### What's he looking for?
 
 - 💬 An internship in web development
 - 😴 Some time to sleep
 
-
-<br>
 
 #### If you want to get in touch
 
