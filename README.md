@@ -1,42 +1,61 @@
-## It's a rainbow! It's a firework! Wait no it's just Yohann...
+<h1 align="center">Yohann Chavanel</h1>
+<h3 align="center">Engineer in the making • Code crafter • Climbing addict</h3>
 
-#### Wait but who's this Yohann guy?
+---
 
-- 💻 A passionate developper (probably)
-- 📘 A french student (at the IUT of Valence)
-- 🍣 A sushi lover
-- 🧗‍♂️ A rock climber (not a pro)
-- 🤵🏻 A funny guy. (at least, that's what they say)
-- 👨‍👩‍👧‍👧 A Teamwork lover
+### 👋 Who dis?
+
+Hey! I’m **Yohann**, a French dev & engineering student currently sharpening my skills at **IMT Atlantique**.  
+By day I write backend logic, or design interfaces, collaborate on cool projects —  
+by night I might be climbing walls, organizing events, or... still coding. 🤷‍♂️
+
+---
+
+### 🛠️ Tech Stack
+
+```yaml
+Languages:     Go · TypeScript · Python · Java · JavaScript · C
+Frontend:      React · React Flow · HTML/CSS · Tailwind
+Backend:       Node.js · Express · REST APIs · Docker
+Databases:     PostgreSQL · MySQL · MongoDB
+DevOps/Tools:  Linux · Git · Bash · Docker Compose · SMTP · OAuth · JWT
+````
+
+---
+
+### 🚧 Currently Exploring
+
+* 🧰 Building **[Transat](https://github.com/PlugImt/transat-app)** — a challenging student project to create the best all in one app for the student in my school.
+
+---
+
+### 💡 Goals
+
+* ✅ Master Node.js & TypeScript & Golang like a pro
+* 🧠 Go deeper into SQL optimization & DB modeling
+* 🔐 Get solid on Web Security (JWT, OAuth2, OWASP)
+
+---
+
+### 🎯 Looking For
+
+* 👨‍💻 **Internships** in web/backend dev (healthtech & devtools especially) for this 2026 summer
+* 🤝 Collabs on cool open-source tools
+* 😴 A little more sleep, honestly
+
+---
+
+### 📬 Hit me up
+
+<p align="center">
+  <a href="mailto:yohann.pro@proton.me">📧 yohann.pro@proton.me</a> • 
+  <a href="https://t.me/yohann69">💬 @yohann69</a> • 
+  Discord: <code>yoh695</code>
+</p>
+
+---
+
+<!-- ![Yohann's GitHub stats](https://github-readme-stats.vercel.app/api?username=yohann69&show_icons=true&theme=transparent) -->
 
 
-#### What kind of experience does he have?
-
-- 🌱 Around 2 years of JS, NodeJS, HTML & CSS (self taught).
-- ✨ Some experience with Java & C
-- 🐍 A tiny bit of python
-- 🦊 Learning PHP at school as well
-- ⚡ Experienced with Linux and Windows 10/11
-- 💾 Some Database knowledge (NoSQL: MongoDB | SQL: MySQL, MariaDB, PostgreSQL)
-
-
-#### What's on his TODO list?
-
-- 💻 Learn more programming languages and master the ones I like such as JS & NodeJS [🚧]
-- 📚 Learn more about databases [🚧]
-- 📝 Learn more about web security
-- 📱 Learn more about mobile development
-
-
-#### What's he looking for?
-
-- 💬 An internship in web development
-- 😴 Some time to sleep
-
-
-#### If you want to get in touch
-
-- Email: yohann@chavanel.eu.org
-- Discord: NΞОИ#1723
-- Telegram: @yohann69
-
+[![Yohann's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yohann69&theme=github-compact)](https://github.com/yohann69/github-readme-activity-graph)
