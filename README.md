@@ -6,7 +6,7 @@
 ### 👋 Who dis?
 
 Hey! I’m **Yohann**, a French dev & engineering student currently sharpening my skills at **IMT Atlantique**.  
-By day I write backend logic, or design interfaces, collaborate on cool projects —  
+By day I write backend logic, or design interfaces, collaborate on cool projects
 by night I might be climbing walls, organizing events, or... still coding. 🤷‍♂️
 
 ---
@@ -18,7 +18,7 @@ Languages:     Go · TypeScript · Python · Java · JavaScript · C
 Frontend:      React · React Flow · HTML/CSS · Tailwind
 Backend:       Node.js · Express · REST APIs · Docker
 Databases:     PostgreSQL · MySQL · MongoDB
-DevOps/Tools:  Linux · Git · Bash · Docker Compose · SMTP · OAuth · JWT
+Tools:         Linux · Git · Bash · Docker Compose · SMTP · OAuth · JWT
 ````
 
 ---
